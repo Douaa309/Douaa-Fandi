@@ -1,2 +1,2 @@
 # glasgow
-My first repository in Glasgow 
+Jasmine my favourite flower.
